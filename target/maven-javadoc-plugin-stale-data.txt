@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/roman/Documents/NetBeansProjects/M8UF4Pt1JavaDoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/roman/Documents/NetBeansProjects/M8UF4Pt1JavaDoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'M8UF4Pt1JavaDoc 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'M8UF4Pt1JavaDoc 1.0-SNAPSHOT API'
+com.mycompany.m8uf4pt1javadoc
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\src\main\java = 1713950661806
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\allclasses-index.html = 1713952625724
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\allpackages-index.html = 1713952625726
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\element-list = 1713952625658
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\help-doc.html = 1713952625750
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\index-all.html = 1713952625741
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\index.html = 1713952625746
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\member-search-index.js = 1713952625729
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\module-search-index.js = 1713952625727
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\overview-tree.html = 1713952625712
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\package-search-index.js = 1713952625728
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\search.html = 1713952625743
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\tag-search-index.js = 1713952625730
+C:\Users\roman\Documents\NetBeansProjects\M8UF4Pt1JavaDoc\target\site\apidocs\type-search-index.js = 1713952625728
